@@ -1,0 +1,27 @@
+{
+  "nextId": 5,
+  "todos": [
+    {
+      "id": 1,
+      "title": "Finish Assignment",
+      "description": "Multi webpage assignment",
+      "status": "todo",
+      "dueDate": "2026-02-13"
+    },
+    {
+      "id": 2,
+      "title": "Enjoy Life",
+      "description": "Touch grass and take a break",
+      "status": "doing",
+      "dueDate": "",
+      "experiencePoints": 100
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ]
+}
